@@ -52,6 +52,8 @@ All assets uploaded to this repository (*.png, *.jpg) are licensed under the Cre
 When adding the [footer.png](https://github.com/catto-oss/brand?tab=readme-ov-file#footerpng) image to a [catto labs/oss](https://github.com/catto-oss) project add the following code at the end of the `.md` file.
 
 ```md
+---
+
 <div align=center>
   
 <img src="https://raw.githubusercontent.com/catto-oss/brand/refs/heads/main/footer.png" width="565" height="565" />
