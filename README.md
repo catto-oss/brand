@@ -41,3 +41,26 @@ All assets uploaded to this repository (*.png, *.jpg) are licensed under the Cre
 ![](./catto_transparent.png)
 
 [Download](https://github.com/catto-oss/brand/blob/main/catto_transparent.png?raw=true)
+
+### `footer.png`
+
+![](./footer.png)
+
+[Download](https://github.com/catto-oss/brand/blob/main/footer.png?raw=true)
+
+## Footer instructions
+When adding the [footer.png](https://github.com/catto-oss/brand?tab=readme-ov-file#footerpng) image to a [catto labs/oss](https://github.com/catto-oss) project add the following code at the end of the `.md` file.
+
+```md
+<div align=center>
+  
+<img src="https://raw.githubusercontent.com/catto-oss/brand/refs/heads/main/footer.png" width="565" height="565" />
+
+Created by [catto labs/oss](https://github.com/catto-oss)
+
+![License](https://img.shields.io/github/license/catto-oss/cookbook?style=for-the-badge&color=b4befe)
+
+</div>
+```
+
+The footer isn't recommended for unofficial projects, for mentioning the organization please use assets above.
