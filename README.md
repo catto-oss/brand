@@ -58,7 +58,7 @@ When adding the [footer.png](https://github.com/catto-oss/brand?tab=readme-ov-fi
 
 Created by [catto labs/oss](https://github.com/catto-oss)
 
-![License](https://img.shields.io/github/license/catto-oss/cookbook?style=for-the-badge&color=b4befe)
+![License](https://img.shields.io/github/license/catto-oss/<repository>?style=for-the-badge&color=b4befe)
 
 </div>
 ```
